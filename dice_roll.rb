@@ -4,6 +4,6 @@
 
 def roll
   numbers=[1,2,3,4,5,6]
-  numbers[rand(1..6)]
+  numbers[rand(0..5)]
 end
 
